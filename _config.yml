@@ -6,13 +6,13 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: My blog
-description: Testing...
+title: Mats learning blog
+description: Using this blog as a tool to get a structure for learning new things
 github_username: matspettersson
 
 # Email and twitter are optional:
 email: 
-twitter_username: 
+twitter_username: matspettersson
 
 # Set this to true to get LaTeX math equation support
 use_math: 

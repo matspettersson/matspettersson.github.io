@@ -1,7 +1,7 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+# Hello and welcome to my blog!
 
-![Image of fast.ai logo](images/logo.png)
+This blog was created using the instructions in the blog post from [fast.ai: Your own hosted blog, the easy, free, open way (even if you're not a computer expert)](https://www.fast.ai/2020/01/16/fast_template/).
 
-## This is a title
+I work as an Enterprise Architect in my daily work, and I've been a developer since the early 1980s. So I don't write code on a daily basis, but I believe that it's important to know at least some level of detail in order to create good solutions as an architect.
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+My intention is to use this blog as a tool for learning new things. I hope it may be of some interest for you too.
